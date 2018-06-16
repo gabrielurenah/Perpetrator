@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "830205755454",
+    "firebase_url": "https://crimereportapp-99a32.firebaseio.com",
+    "project_id": "crimereportapp-99a32",
+    "storage_bucket": "crimereportapp-99a32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830205755454:android:add3b9812ab26c01",
+        "android_client_info": {
+          "package_name": "com.example.afinal.reportedelitos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830205755454-7uqk386j5dlm667o5vbe2ddn4ugrqbdo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "830205755454-7uqk386j5dlm667o5vbe2ddn4ugrqbdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSrKp4PQzjFJ_4qgbnzJ3kiuHatbWh0kM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Perpetrator</string>
+
+    <string name="category_reports">Reports</string>
+    <string name="category_profile">Profile</string>
+    <string name="category_publish">New Post</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="dont_have_an_account_signup">Dont have an account? Signup</string>
+    <string name="description">description</string>
+    <string name="tap_on_post_to_share">Tap on Post to share...</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_registered_log_in_here">Already Registered? Log In Here</string>
+    <string name="crime_description">Crime description</string>
+    <string name="add_image">Add Image</string>
+    <string name="location">Location: </string>
+    <string name="publish">Publish</string>
+    <string name="logout">LogOut</string>
+    <string name="share">Share</string>
+</resources>
